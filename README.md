@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/fin4k08Learn/Terraform%20-%20with%20Pipeline%20play/_apis/build/status/fin4k08.python-sample-vscode-flask-tutorial?branchName=master)](https://dev.azure.com/fin4k08Learn/Terraform%20-%20with%20Pipeline%20play/_build/latest?definitionId=18&branchName=master)
 # Python/Flask Tutorial for Visual Studio Code
 
 * This sample contains the completed program from the tutorial, make sure to visit the link: [Using Flask in Visual Studio Code](https://code.visualstudio.com/docs/python/tutorial-flask). Intermediate steps are not included.
